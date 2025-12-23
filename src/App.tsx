@@ -10,6 +10,7 @@ import PoojaBooking from "./pages/PoojaBooking";
 import Slokhas from "./pages/Slokhas";
 import SacredCalendar from "./pages/Calendar";
 import Contact from "./pages/Contact";
+import Gallery from "./pages/Gallery";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -28,6 +29,7 @@ const App = () => (
           <Route path="/slokhas" element={<Slokhas />} />
           <Route path="/calendar" element={<SacredCalendar />} />
           <Route path="/contact" element={<Contact />} />
+          <Route path="/gallery" element={<Gallery />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </BrowserRouter>

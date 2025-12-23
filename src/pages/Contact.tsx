@@ -143,7 +143,7 @@ const Contact = () => {
                         +91 98765 43210
                       </a>
                       <p className="text-sm text-muted-foreground mt-1">
-                        Available 9 AM - 6 PM IST
+                        Available 9 AM - 5 PM IST
                       </p>
                     </div>
                   </motion.div>
@@ -159,8 +159,8 @@ const Contact = () => {
                       <h3 className="font-medium text-foreground mb-1">Address</h3>
                       <p className="text-muted-foreground">
                         Thatvamasi – Ayyappa Seva Trust<br />
-                        Temple Complex, Main Road<br />
-                        Bengaluru, Karnataka 560001
+                        ShahpurPete, <br />
+                        Gadag-Betagiri, Karnataka 582101
                       </p>
                     </div>
                   </motion.div>

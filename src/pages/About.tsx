@@ -106,7 +106,7 @@ const About = () => {
               </p>
               <p>
                 Under the spiritual guidance of Manjunath Guru Swami, we have embarked 
-                on the sacred mission of constructing a temple dedicated to Lord Ayyappa, 
+                on the sacred mission of constructing a Sannidhi dedicated to Lord Ayyappa, 
                 while simultaneously serving the spiritual needs of devotees through 
                 authentic poojas, vratha guidance, and pilgrimage support.
               </p>
@@ -148,7 +148,7 @@ const About = () => {
                 Manjunath Guru Swami is the spiritual head and guiding light of Thatvamasi 
                 – Ayyappa Seva Trust. With decades of devotion to Lord Ayyappa and deep 
                 knowledge of Sanatana Dharma, Guru Swami leads the trust in its sacred 
-                mission of building the temple and serving devotees. His teachings 
+                mission of building the Sannidhi and serving devotees. His teachings 
                 emphasize the unity of all beings and the importance of seva in one's 
                 spiritual journey.
               </p>
@@ -231,7 +231,7 @@ const About = () => {
               <p className="text-muted-foreground leading-relaxed">
                 Thatvamasi – Ayyappa Seva Trust operates as a non-profit organization, 
                 driven purely by seva (selfless service). Every donation is used 
-                exclusively for temple construction, pooja services, and devotee welfare. 
+                exclusively for Sannidhi construction, pooja services, and devotee welfare. 
                 We maintain complete transparency in our operations and are accountable 
                 to our devotee community.
               </p>

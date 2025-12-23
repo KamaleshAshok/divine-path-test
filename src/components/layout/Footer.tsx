@@ -33,7 +33,7 @@ const Footer = () => {
             <ul className="space-y-2">
               {[
                 { href: "/about", label: "About the Trust" },
-                { href: "/donations", label: "Temple Donations" },
+                { href: "/donations", label: "Sanhidi Donations" },
                 { href: "/pooja-booking", label: "Book Pooja" },
                 { href: "/slokhas", label: "Slokhas & Vrathas" },
               ].map((link) => (

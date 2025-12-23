@@ -30,7 +30,7 @@ const Index = () => {
         <div className="absolute inset-0">
           <img
             src={heroImage}
-            alt="Sacred temple with glowing diyas"
+            alt="Sacred Sannidhi with glowing diyas"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-foreground/60 via-foreground/40 to-background" />
@@ -100,7 +100,7 @@ const Index = () => {
               <Button variant="gold" size="xl" asChild>
                 <Link to="/donations" className="gap-3">
                   <Heart className="w-5 h-5" />
-                  Support Temple Construction
+                  Support Sannidhi Construction
                 </Link>
               </Button>
               <Button variant="sacred-outline" size="xl" className="border-cream/50 text-cream hover:bg-cream/10 hover:text-cream" asChild>
@@ -172,12 +172,12 @@ const Index = () => {
               <div className="space-y-4 text-muted-foreground leading-relaxed">
                 <p>
                   Beloved devotees, the path of Lord Ayyappa is one of discipline, devotion, and 
-                  selfless service. Through Thatvamasi, we seek to build not just a temple of stone, 
-                  but a temple in every heart.
+                  selfless service. Through Thatvamasi, we seek to build not just a Sannidhi of stone, 
+                  but a Sannidhi in every heart.
                 </p>
                 <p>
                   This sacred platform is your gateway to connect with the divine — whether through 
-                  performing poojas, observing vrathas, or participating in temple construction. 
+                  performing poojas, observing vrathas, or participating in Sannidhi construction. 
                   Every act of seva brings you closer to the truth: Thatvamasi — You are That.
                 </p>
                 <p className="font-medium text-foreground italic">
@@ -229,8 +229,8 @@ const Index = () => {
             {[
               {
                 icon: Heart,
-                title: "Temple Donations",
-                description: "Support the sacred construction of our temple through your generous seva.",
+                title: "Sannidhi Donations",
+                description: "Support the sacred construction of our Sannidhi through your generous seva.",
                 href: "/donations",
                 image: templeConstructionImage,
               },
@@ -300,7 +300,7 @@ const Index = () => {
         <div className="absolute inset-0">
           <img
             src={templeConstructionImage}
-            alt="Temple construction"
+            alt="Sannidhi construction"
             className="w-full h-full object-cover"
           />
           <div className="absolute inset-0 bg-gradient-to-r from-foreground/90 via-foreground/80 to-foreground/70" />
@@ -332,13 +332,13 @@ const Index = () => {
             >
               Join us in building a sacred abode for Lord Ayyappa Swamy. Every contribution, 
               big or small, is a brick in this divine endeavor. Your name will be etched 
-              forever in this temple's legacy.
+              forever in this Sannidhi's legacy.
             </motion.p>
             <motion.div variants={fadeInUp}>
               <Button variant="gold" size="xl" asChild>
                 <Link to="/donations" className="gap-3">
                   <Gift className="w-5 h-5" />
-                  Contribute to Temple Construction
+                  Contribute to Sannidhi Construction
                 </Link>
               </Button>
             </motion.div>

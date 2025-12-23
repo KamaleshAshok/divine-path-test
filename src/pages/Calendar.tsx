@@ -32,7 +32,7 @@ const importantDates = [
   {
     date: "December 30, 2024",
     event: "Makaravilakku Season Opens",
-    description: "Temple opens for Makaravilakku festival",
+    description: "Sannidhi opens for Makaravilakku festival",
     type: "festival",
   },
   {
@@ -277,7 +277,7 @@ const SacredCalendar = () => {
               <p className="text-muted-foreground leading-relaxed">
                 The dates and information provided are for guidance only. 
                 Please verify official dates from the Travancore Devaswom Board 
-                before planning your pilgrimage. Temple timings and access may 
+                before planning your pilgrimage. Sannidhi timings and access may 
                 change based on various factors. We provide truthful guidance 
                 without any false promises.
               </p>

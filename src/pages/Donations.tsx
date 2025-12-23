@@ -23,12 +23,12 @@ const donationTypes = [
     id: "general",
     icon: Heart,
     title: "General Seva",
-    description: "Support daily temple operations and devotee services.",
+    description: "Support daily Sannidhi operations and devotee services.",
   },
   {
     id: "temple",
     icon: Building,
-    title: "Temple Construction",
+    title: "Sannidhi Construction",
     description: "Contribute to building Lord Ayyappa's sacred abode.",
     featured: true,
   },
@@ -304,7 +304,7 @@ const Donations = () => {
               Your donation is not just a financial contribution — it is an offering of love 
               and devotion to Lord Ayyappa Swamy. May your generosity bring divine blessings 
               to you and your family. Each donor receives a personalized blessing certificate 
-              and regular updates on temple construction.
+              and regular updates on Sannidhi construction.
             </p>
           </motion.div>
         </div>

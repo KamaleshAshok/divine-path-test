@@ -55,7 +55,7 @@ const Header = () => {
           {/* CTA Button */}
           <div className="hidden md:flex items-center gap-3">
             <Button variant="sacred" size="sm" asChild>
-              <Link to="/donations">Support Temple</Link>
+              <Link to="/donations">Support Sannidhi</Link>
             </Button>
           </div>
 
@@ -97,7 +97,7 @@ const Header = () => {
               ))}
               <Button variant="sacred" className="mt-2" asChild>
                 <Link to="/donations" onClick={() => setIsMenuOpen(false)}>
-                  Support Temple Construction
+                  Support Sanhidi Construction
                 </Link>
               </Button>
             </nav>
