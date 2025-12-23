@@ -4,7 +4,7 @@ import { Heart, Calendar, BookOpen, Gift, ArrowRight, Sparkles } from "lucide-re
 import { Button } from "@/components/ui/button";
 import Layout from "@/components/layout/Layout";
 import heroImage from "@/assets/hero-temple.jpg";
-import guruImage from "@/assets/guru-swami.jpg";
+import guruImage from "@/assets/guru-swamy-gadag.jpeg";
 import poojaItemsImage from "@/assets/pooja-items.jpg";
 import templeConstructionImage from "@/assets/temple-construction.jpg";
 
